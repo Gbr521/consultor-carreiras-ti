@@ -18,7 +18,7 @@ Sistema Especialista baseado em regras (encadeamento para frente) que entrevista
 ```bash
 # 1. clonar o repositório
 git clone https://github.com/Gbr521/consultor-carreiras-ti
-cd consultor_carreiras
+cd consultor-carreiras-ti
 
 # 2. (opcional) criar ambiente virtual
 python -m venv .venv
