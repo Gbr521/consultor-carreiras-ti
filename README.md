@@ -1,4 +1,4 @@
-# 🧭 Consultor Inteligente de Carreiras em TI
+Consultor Inteligente de Carreiras em TI
 
 Sistema Especialista baseado em regras (encadeamento para frente) que entrevista o usuário e recomenda
 **uma entre 10 trilhas de carreira em TI**, justificando a decisão com as regras disparadas.
